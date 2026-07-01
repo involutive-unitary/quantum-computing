@@ -1,0 +1,9 @@
+{
+	"name": "quantum-computing",
+	"version": "1.0.1",
+	"title": "Quantum Computing",
+	"author": "@involutive-unitary github",
+	"description": "Adds quantum computing to the game",
+	"factorio_version": "2.1",
+	"dependencies": ["base", "+ space-age", "+ quality"]
+}
