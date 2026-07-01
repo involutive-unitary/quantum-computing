@@ -1,6 +1,6 @@
 {
 	"name": "quantum-computing",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"title": "Quantum Computing",
 	"author": "@involutive-unitary github",
 	"description": "Adds quantum computing to the game",
